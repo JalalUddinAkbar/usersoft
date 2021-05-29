@@ -1,0 +1,13 @@
+.cart h3{
+    text-align: center;
+    padding-top: 30px;
+}
+.cart{
+    background-color: rgb(159, 189, 255);
+    width: 50%;
+    position: relative;
+    left: 430px;
+    height: 100px;
+
+
+}

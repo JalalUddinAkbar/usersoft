@@ -1,0 +1,12 @@
+.userStyle{
+   height: 300px;
+   width: 500px;
+   margin-top: 60px;
+   margin-left: 40px;;
+   border-radius: 50px;
+   padding-top: 30px;
+   text-align: center;
+}
+.userStyle img{
+    border-radius: 50%;
+}
